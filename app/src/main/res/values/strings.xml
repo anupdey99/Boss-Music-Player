@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Boss Music Player</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_allmusic_title">All Music</string>
+    <string name="drawer_playlists_title">Playlists</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- About Activity -->
+    <string name="title_Activity_About">About</string>
+    <string name="groupName">Team: GroupOne</string>
+    <string name="mate1">Anup Dey</string>
+    <string name="mate2">Akbar Hossain</string>
+    <string name="mate3">Md Masodujjaman</string>
+    <string name="mate4">Sudarshan Biswas</string>
+    <string name="mateID1">ID# 122228</string>
+    <string name="mateID2">ID# 126477</string>
+    <string name="mateID3">ID# 121696</string>
+    <string name="mateID4">ID# 123293</string>
+
+
+</resources>
